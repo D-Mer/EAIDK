@@ -1,0 +1,3 @@
+/home/openailab/TengineExample/CMakeFiles/rebuild_cache.dir
+/home/openailab/TengineExample/CMakeFiles/tm_classify.dir
+/home/openailab/TengineExample/CMakeFiles/edit_cache.dir
